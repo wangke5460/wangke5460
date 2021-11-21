@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wangke5460
+- 👋 Hi, I’m wangke
 - 👀 I’m interested in go
 - 🌱 I’m currently learning go
 - 💞️ I’m looking to collaborate on go
